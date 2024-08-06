@@ -1,6 +1,5 @@
-# Hi, I'm Gaurav Ingle 👋
-
-Aspiring Data Scientist with a strong background in Mechatronics and Mechanical Engineering, currently based in Wolfsburg, Germany. My expertise spans across data modeling, engineering, and analysis, with a keen interest in autonomous driving, robotics, and cloud-based solutions.
+<h1 align="center">Hi, I'm Gaurav Ingle 👋</h1>
+<h3 align="center"> Aspiring Data Science professional with a strong background in Mechatronics and Mechanical Engineering, currently based in Wolfsburg, Germany. My expertise spans across data modeling, engineering, and analysis, and cloud-based solutions with a keen interest in autonomous driving, IOT, and robotics. </h3>
 
 ## 🚀 About Me
 
