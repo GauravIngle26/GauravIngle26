@@ -67,10 +67,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravingle26&show_icons=true&locale=en&layout=compact" alt="gauravingle26" /></p>
 
-<br><br><br>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravingle26&show_icons=true&locale=en" alt="gauravingle26" /></p>
-
-<br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravingle26&" alt="gauravingle26" /></p>
