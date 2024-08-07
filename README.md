@@ -63,9 +63,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravingle26&show_icons=true&locale=en&layout=compact" alt="gauravingle26" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gauravingle26&show_icons=true&locale=en" alt="gauravingle26" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravingle26&" alt="gauravingle26" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravingle26&show_icons=true&locale=en&layout=compact" alt="gauravingle26" /></p>
