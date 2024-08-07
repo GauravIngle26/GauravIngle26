@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravingle26&label=Profile%20views&color=0e75b6&style=flat" alt="gauravingle26" /> </p>
 
-- 🔭 I have recently finished **Master Thesis on topic realted to scneario based validation of Automated Driving Systems at Volkswagen AG**
+- 🔭 I have recently finished **Master Thesis on topic based on Scneario Based testing V & V of Automated Driving Systems at Volkswagen AG**
 
 - 🌱 I’m currently learning **Cloud Platforms and GenAI**
 
