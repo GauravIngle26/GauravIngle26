@@ -1,15 +1,15 @@
 <img align="center" alt="Coding" width="800" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
-<h1 align="left">Hi 👋, I'm Gaurav</h1>
+<h1 align="left">Hi 👋, I'm Gaurav.</h1>
 <h3 align="left">Aspiring Data Science professional with a strong background in Mechatronics and Mechanical Engineering. My expertise spans across data modeling, engineering, and analysis, machine learning and cloud-based solutions with a keen interest in autonomous driving, IOT, and robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravingle26&label=Profile%20views&color=0e75b6&style=flat" alt="gauravingle26" /> </p>
 
-- 🔭 I have recently finished **Master Thesis on topic based on Scneario Based testing V & V of Automated Driving Systems at Volkswagen AG**
+- 🔭 I have recently finished **Master Thesis on topic based on Scneario Based testing V & V of Automated Driving Systems at Volkswagen AG.**
 
-- 🌱 I’m currently learning **Cloud Platforms and GenAI**
+- 🌱 I’m currently learning **Cloud Platforms and GenAI.**
 
-- 💬 Ask me about **Data Engineering / Data Analysis / Machine Learning / AI**
+- 💬 Ask me about **Data Engineering / Data Analysis / Machine Learning / AI.**
 
 - 📫 How to reach me **gaurav.i@outlook.com**
 
