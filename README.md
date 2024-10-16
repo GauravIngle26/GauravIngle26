@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Testing & GenAI**
 
-- 💬 Ask me about ** Data analysis/ AI / ADAS-AD Safety V&V.**
+- 💬 Ask me about ** Computer Vision/ AI / ADAS-AD Safety V&V.**
 
 - 📫 How to reach me **gaurav.i@outlook.com**
 
