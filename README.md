@@ -1,15 +1,15 @@
 <img align="center" alt="Coding" width="800" src="https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif"> 
 
 <h1 align="left">Hi 👋, I'm Gaurav.</h1>
-<h3 align="left">Aspiring Data Science professional with a strong background in Mechatronics and Mechanical Engineering. My expertise spans across data modeling, engineering, and analysis, machine learning and cloud-based solutions with a keen interest in autonomous driving, IOT, and robotics.</h3>
+<h3 align="left">Mechatronics Engineer and background in Mechanical Engineering. My expertise spans across data analysis, machine learning and cloud-based solutions with a keen interest in autonomous driving, IOT, and robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravingle26&label=Profile%20views&color=0e75b6&style=flat" alt="gauravingle26" /> </p>
 
 - 🔭 I have recently finished **Master Thesis on topic based on Scneario Based testing V & V of Automated Driving Systems at Volkswagen AG.**
 
-- 🌱 I’m currently learning **Cloud Platforms and GenAI.**
+- 🌱 I’m currently learning **Software Testing & GenAI**
 
-- 💬 Ask me about **Data Engineering / Data Analysis / Machine Learning / AI.**
+- 💬 Ask me about ** Data analysis/ AI / ADAS-AD Safety V&V.**
 
 - 📫 How to reach me **gaurav.i@outlook.com**
 
